@@ -80,7 +80,7 @@ function processCircles(hours, minutes, seconds) {
 }
 
 function UpdateClock() {
-	let time = new Date();
+  let time = new Date();
   
   let hours = time.getHours();
   let minutes = time.getMinutes();
