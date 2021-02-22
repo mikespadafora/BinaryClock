@@ -66,6 +66,7 @@
   background:white;
   margin: 10px;
   opacity: 85%;
+  transform: scale(1.2);
   transition: opacity 0.3s;
 }
 
